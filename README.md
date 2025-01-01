@@ -1,3 +1,7 @@
+```bash
+echo "Hello World!"
+```
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
